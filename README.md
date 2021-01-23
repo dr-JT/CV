@@ -2,9 +2,7 @@
 
 This repo contains my CV and the code used to build it. 
 
-## A Little Background
-
-I used to rely on online tools to build my CV but was never happy about how much they cost. Recently, I came across the [vitae](https://github.com/mitchelloharawild/vitae) package by Mitchell O'Hara-Wild and decided to give it a try. It's been a fun experience and most importantly you get a fancy-looking CV for free. I share my code here as an example in case anyone is interested in making their own. 
+All materials and the following documentation were cloned from [HanZhang-psych/CV](https://github.com/HanZhang-psych/CV)
 
 Feel free to clone the files and edit them to make your own!
 
