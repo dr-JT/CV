@@ -1,0 +1,113 @@
+---
+name: Jason S.
+surname: Tsukahara
+address: "394 Richards St NW, Atlanta, GA, 30318"
+www: amindfulbalance.page
+email: "jason.tsukahara@gmail.com"
+twitter: mindfulnessJT
+headcolor: 414141 # use black color
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::awesomecv:
+    keep_tex: no
+---
+
+# TEACHERS
+
+## Primary Teacher
+
+**B. Alan Wallace** \hfill 2011 - Present
+
+http://www.alanwallace.org/
+
+Dr. Wallace, a scholar and practitioner of Buddhism since 1970, has taught Buddhist theory and meditation worldwide since 1976. Having devoted fourteen years to training as a Tibetan Buddhist monk, ordained by H. H. the Dalai Lama, he went on to earn an undergraduate degree in physics and the philosophy of science at Amherst College and a doctorate in religious studies at Stanford.
+
+# PRIMARY PRACTICES
+
+- Tibetan Buddhism (Nyingma)
+- Mindfulness
+- Shamatha (in Theravadan and Dzogchen traditions)
+
+> Mindfulness of Breathing; Settling the Mind in It's Natural State; Awareness of Awareness (Shamatha without a sign)
+
+- Vipashyana (in Theravadan and Dzogchen traditions)
+
+> Four Applications of Mindfulness; Emptiness; Vipashyana in the Dzogchen tradition
+
+- Four-Immeasurables
+
+> Loving-Kindness; Compassion; Empathetic Joy; Equanimity
+
+- Four Thoughts that Turn the Mind
+
+- Lucid Dreaming/Dream Yoga
+
+# TEACHING EXPERIENCE
+
+5-Week Introduction to Meditation Course \hfill _Fall 2017_
+
+6-Week Meditation Course on Mindful Attention \hfill _Spring 2018_
+
+Yoga and Meditation for Mindfulness \hfill _Monthly, October 2017 - Febraury 2018_
+
+# RETREATS
+
+Introduction to Dzogchen (Wisdom Publications Online Course) \hfill _Spring 2017_
+
+Instructor: **B. Alan Wallace** \hfill Online
+
+&nbsp;
+
+Shamatha & Vipashyana in the Dzogchen Tradition \hfill _October 1st - October 7th, 2016_
+
+Instructor: **B. Alan Wallace** \hfill Garrison Institute, Garrison, NY
+
+&nbsp;
+
+Nature of Mind: An Exeriential Approach \hfill _April 4th - April 7th, 2015_
+
+Instructor: **B. Alan Wallace** \hfill Vajrapani Institute, San Jose, CA
+
+&nbsp;
+
+Buddhist Community for Young Adults \hfill _June 8th - June 15th, 2012_
+
+Instructor: **Venerable Thubten Chodron** \hfill Sravasti Abbey, Newport, WA
+
+&nbsp;
+
+The Way of Shamatha - Solitary Retreat \hfill _March 10th - March 17th, 2012_
+
+Instructor: **B. Alan Wallace (By way of DVD)** \hfill Bothell, WA
+
+&nbsp;
+
+8-Week Shamatha and Four Immeasurables \hfill _August 27th - October 22nd, 2011_
+
+Instructor: **B. Alan Wallace** \hfill Thanyapura, Phuket, Thailand
+
+&nbsp;
+
+10-Day Goenka Vipassana Meditation \hfill _May 4th - May 15th, 2011_
+
+Instructor: **Goenka (by Vidoe)** \hfill Northwest Vispassana Cener, Onalaska, WA
+
+&nbsp;
+
+Vipassana Meditation \hfill _October 12th - October 17th, 2010_
+
+Instructor: **Heather Martin** \hfill Community of Christ Campground, Sammish Island, WA
+
+
+# SERVICE
+
+Meditation Club at Georgia Institute of Technology \hfill _Fall 2014 - Present_
+
+**President and Meditation Instructor**
+
+&nbsp;
+
+Mindfulness Club at Western Washington University \hfill _Fall 2009 - Spring 2011_
+
+**President and Meditation Instructor**
+

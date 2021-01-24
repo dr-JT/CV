@@ -46,6 +46,7 @@
 %-------------------------------------------------------------------------------
 %                3rd party packages
 %-------------------------------------------------------------------------------
+\RequirePackage{hanging}
 % Needed to make fixed length table
 \RequirePackage{array}
 % Needed to handle list environment
@@ -76,8 +77,6 @@
 % (https://github.com/posquit0/latex-fontawesome)
 \defaultfontfeatures{Extension = .otf}
 \RequirePackage{fontawesome}
-% Add support of academia icons
-\usepackage{academicons}
 \RequirePackage[default,opentype]{sourcesanspro}
 % Needed for the photo ID
 \RequirePackage[skins]{tcolorbox}
@@ -475,10 +474,7 @@
         }%
       \ifthenelse{\isundefined{\@orcid}}%
         {}%
-        {%
-          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://orcid.org/\@orcid}{\aiOrcidSquare\acvHeaderIconSep\@orcid}%
-        }%
+        {}%
       \ifthenelse{\isundefined{\@publons}}%
         {}%
         {%
@@ -489,7 +485,7 @@
         {}%
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
-          \href{https://scholar.google.com/citations?user=\@googlescholar}{\aiGoogleScholarSquare\acvHeaderIconSep\@googlescholar}%
+          \href{https://scholar.google.com/citations?user=\@googlescholar}{\faGraduationCap\acvHeaderIconSep\ google scholar}%
         }%
       \ifthenelse{\isundefined{\@researchgate}}%
         {}%
@@ -596,7 +592,7 @@
   \paragraphstyle
 }{%
   \par
-  \vspace{2mm}
+  \vspace{6mm}
 }
 
 % Define an environment for cventry
