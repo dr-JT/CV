@@ -71,8 +71,6 @@ My research is primarily concerned with understanding the nature of attention co
 \setlength{\leftskip}{0.5in}
 \setlength{\baselineskip}{0.2in}
 
-**Tsukahara**, J.S., & Engle, R.W. (2020). Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions). Submitted to *Cognition*. https://doi.org/10.31234/osf.io/pvz24. **Citations: `r rcrossref::cr_citation_count("10.31234/osf.io/pvz24")$count`**
-
 **Tsukahara**, J.S., & Engle, R.W. (2020). The locus coeruleus-norepinephrine system and fluid intelligence. *PsyArXiv*: https://doi.org/10.31234/osf.io/eg3vw. **Citations: `r rcrossref::cr_citation_count("10.31234/osf.io/eg3vw")$count`**
 
 \endgroup
@@ -83,6 +81,8 @@ My research is primarily concerned with understanding the nature of attention co
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\baselineskip}{0.2in}
+
+**Tsukahara**, J.S., & Engle, R.W. (2021). Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions). *Cognition, 211. Advanced online publication*. https://doi.org/10.1016/j.cognition.2021.104643. **Citations: `r rcrossref::cr_citation_count("10.1016/j.cognition.2021.104643")$count`**
 
 Draheim, C., **Tsukahara**, J.S., Martin, J.D., & Engle, R.W. (2021). A toolbox approach to improving the measurement of attention control. *Journal of Experimental Psychology: General, 150*(2), 242-275. https://doi.org/10.1037/xge0000783. **Citations: `r rcrossref::cr_citation_count("10.1037/xge0000783")$count`**
 
